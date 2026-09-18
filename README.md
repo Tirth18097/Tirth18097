@@ -117,19 +117,10 @@
 </p>
 
 ---
-
-# 💼 My Interests
+## 🚀 My Interests
 
 <p align="center">
-
-| Area | Focus |
-|---|---|
-| 📊 Data Science | Data Analysis · Visualization · Statistics |
-| 🤖 AI / ML | Machine Learning · Deep Learning · Computer Vision |
-| 🧠 Generative AI | LLMs · RAG · Agentic AI |
-| ☁️ Cloud | AWS · GCP · Docker |
-| 🌐 Development | Flask |
-
+  <img src="./assets/my-interests.svg" width="100%" alt="My Interests">
 </p>
 
 ---
