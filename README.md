@@ -37,8 +37,6 @@
 - 🎓 Final-year **B.Tech Computer Engineering** student
 - 📊 Focused on **Data Science, Machine Learning & Data Analytics**
 - 🤖 Currently exploring **Generative AI & Agentic AI**
-- 🔐 Working on **Privacy-Preserving Federated Learning**
-- 👁️ Interested in **Computer Vision & Deep Learning**
 - 📈 Experienced with **Python, SQL, Power BI & Data Visualization**
 - ☁️ Exploring **Cloud, Docker & modern AI technologies**
 - 🚀 I enjoy turning data and ideas into practical solutions
@@ -64,7 +62,7 @@
 ### 👨‍💻 Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css" />
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -86,33 +84,28 @@
 ### 🗄️ Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle" />
 </p>
 
 ### 🌐 Frameworks & Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flask,django,react" />
+<img src="https://skillicons.dev/icons?i=flask" />
 </p>
 
 ### ☁️ Cloud & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,gcp,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=Tirth18097&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth18097&layout=compact&hide_border=true&langs_count=8"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Tirth18097&show_icons=true&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth18097&layout=compact&hide_border=true" height="180">
 </p>
 
 ---
@@ -125,20 +118,19 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth18097&l
 
 ---
 
-# 📈 Contribution Activity
+<h2>📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirth18097&bg_color=ffffff&color=0e75b6&line=0e75b6&point=24292e&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirth18097&theme=github-compact&hide_border=true" width="95%">
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+<h2>🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tirth18097&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tirth18097&theme=flat&no-frame=true&no-bg=true&row=1&column=6" width="95%">
 </p>
-
 ---
 
 # 🐍 Contribution Graph
