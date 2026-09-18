@@ -120,7 +120,7 @@
 ## 🚀 My Interests
 
 <p align="center">
-  <img src="./assets/my-interests.svg" width="100%" alt="My Interests">
+  <img src="./.github/assets/assets/my-interests.svg" width="100%" alt="My Interests">
 </p>
 
 ---
