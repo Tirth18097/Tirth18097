@@ -99,17 +99,6 @@
 <img src="https://skillicons.dev/icons?i=aws,git,github,linux" />
 </p>
 
----
-
-<h2>📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tirth18097&show_icons=true&hide_border=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth18097&layout=compact&hide_border=true" height="180">
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
@@ -118,19 +107,7 @@
 
 ---
 
-<h2>📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirth18097&theme=github-compact&hide_border=true" width="95%">
-</p>
-
 ---
-
-<h2>🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tirth18097&theme=flat&no-frame=true&no-bg=true&row=1&column=6" width="95%">
-</p>
 ---
 
 # 🐍 Contribution Graph
@@ -141,7 +118,7 @@
 
 ---
 
-# 💼 Experience & Interests
+# 💼 My Interests
 
 <p align="center">
 
@@ -150,9 +127,8 @@
 | 📊 Data Science | Data Analysis · Visualization · Statistics |
 | 🤖 AI / ML | Machine Learning · Deep Learning · Computer Vision |
 | 🧠 Generative AI | LLMs · RAG · Agentic AI |
-| 🔐 Federated Learning | Privacy · Distributed ML · Model Optimization |
 | ☁️ Cloud | AWS · GCP · Docker |
-| 🌐 Development | Flask · Django · React |
+| 🌐 Development | Flask |
 
 </p>
 
