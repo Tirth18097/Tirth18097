@@ -43,18 +43,6 @@
 
 ---
 
-## 🌱 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Agentic%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-0E75B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge"/>
-
-</p>
-
 ---
 
 # 🛠️ Tech Stack
